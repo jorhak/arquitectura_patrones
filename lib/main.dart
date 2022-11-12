@@ -18,6 +18,7 @@ class MyApp extends StatelessWidget {
         'plantilla': (_) => PlantillaScreen(),
         'memento': (_) => MementoScreen(),
         'composite': (_) => CompositeScreen(),
+        'adapter': (_) => AdapterScreen(),
       },
     );
   }

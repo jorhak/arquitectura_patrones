@@ -1,3 +1,4 @@
+export 'package:arquitectura_patrones/screens/adapter_screen.dart';
 export 'package:arquitectura_patrones/screens/composite_screen.dart';
 export 'package:arquitectura_patrones/screens/estrategia_screen.dart';
 export 'package:arquitectura_patrones/screens/home_screen.dart';
